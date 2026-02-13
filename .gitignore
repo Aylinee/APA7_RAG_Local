@@ -1,0 +1,12 @@
+﻿.env
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+*.docx
+*.pdf
+.vs/
+*.user
+*.suo
+*.pidb
+TextFile1.txt
