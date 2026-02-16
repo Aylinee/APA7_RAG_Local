@@ -1,5 +1,6 @@
 # APA7_RAG_Local
 # ⚡ AI-Powered APA 7 Bibliography Generator
+![APA7_LLM](https://github.com/user-attachments/assets/2fa19dc2-3b2e-44da-abc0-2c9dd3d85a43)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
